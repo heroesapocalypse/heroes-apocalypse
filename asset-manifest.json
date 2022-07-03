@@ -1,16 +1,13 @@
 {
   "files": {
     "main.css": "/heroes-apocalypse/static/css/main.073c9b0a.css",
-    "main.js": "/heroes-apocalypse/static/js/main.d12dd4bc.js",
-    "static/js/787.f2d0a721.chunk.js": "/heroes-apocalypse/static/js/787.f2d0a721.chunk.js",
-    "static/media/logo.svg": "/heroes-apocalypse/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.js": "/heroes-apocalypse/static/js/main.8cd6906b.js",
     "index.html": "/heroes-apocalypse/index.html",
     "main.073c9b0a.css.map": "/heroes-apocalypse/static/css/main.073c9b0a.css.map",
-    "main.d12dd4bc.js.map": "/heroes-apocalypse/static/js/main.d12dd4bc.js.map",
-    "787.f2d0a721.chunk.js.map": "/heroes-apocalypse/static/js/787.f2d0a721.chunk.js.map"
+    "main.8cd6906b.js.map": "/heroes-apocalypse/static/js/main.8cd6906b.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.d12dd4bc.js"
+    "static/js/main.8cd6906b.js"
   ]
 }
